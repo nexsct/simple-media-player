@@ -6,9 +6,6 @@ python repo and your Project. You can Upgrade the features of this Music Player
 ### First Screenshot
 ![Screenshot](src/test.png?raw=true "Screen1")
 
-### Second Screenshot
-![Screenshot](src/test1.png?raw=true "Screen2")
-
 ###  Author Details
 ```
     Bill Munene
