@@ -4,7 +4,7 @@ for practise and fun purpose. if you are also new to python and want to practise
 python repo and your Project. You can Upgrade the features of this Music Player
 
 ### First Screenshot
-![Screenshot](src/test.png?raw=true "Screen1")
+![Screenshot](src/test1.png?raw=true "Screen1")
 
 ###  Author Details
 ```
